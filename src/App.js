@@ -7,3 +7,5 @@ class App extends React.Component {
 }
 
 export default App;
+
+// Exemplo: <button data-testid="my-action"></button>
