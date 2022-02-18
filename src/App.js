@@ -1,8 +1,10 @@
+// Arquivo JS principal
 import React from 'react';
+import Header from './components/index';
 
 class App extends React.Component {
   render() {
-    return (<p>Sistema Solar - Lucca</p>);
+    return (<Header />);
   }
 }
 

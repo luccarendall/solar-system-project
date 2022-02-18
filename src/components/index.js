@@ -2,11 +2,12 @@ import React from 'react';
 
 class Header extends React.Component {
   render() {
-    };
-     <header>
-         <h1>Sistema Solar</h1>
-     </header>
-    ;
-  };
+    return (
+      <header>
+        <h1>Sistema Solar</h1>
+      </header>
+    );
+  }
+}
 
 export default Header;
