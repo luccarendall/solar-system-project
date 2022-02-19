@@ -1,9 +1,11 @@
 import React from 'react';
 
 class Missions extends React.Component {
-    render() {
-        return ();
-    };
-};
+  render() {
+    return (
+      <div data-testid="missions" />
+    );
+  }
+}
 
 export default Missions;
